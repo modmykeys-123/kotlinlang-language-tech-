@@ -1,0 +1,50 @@
+//chapter-1
+
+//--------------part 1-------------
+
+fun main()  // the fun mean futation ,a typo or a blend of two distinct coding concepts.
+
+{           // the main means the body of the futation 
+
+            // the () means the parameters or input that the fun want to do 
+
+   }        // { means the ,developer slang or a shorthand typo for "object" or the space werethe coder make the project.
+
+
+// -------------------part 2------------------------
+
+fun main () {
+
+println("hello world ")  // println is a tool used to make the object show the println realy mean --show on the line --
+
+                        //  --- ()--- this used to make a space to write ,how to show , what to show the content of println will be writen on this space
+
+                       // the ---"****"---  realy this is used to show that this **** want to show, or ,the "" is used to show the context that writen inside this two key letter ""
+
+
+                      // the println("hello world") in this the hello world is the content that i was said as **** that will show while runing
+
+}
+
+
+
+
+//------------ part 3 ---------------
+
+
+// this is how we can make add the text to--- println---
+
+fun main (){
+
+println("hello")       // the out put of this is helloworld because in the 2 state ther is only print not println which will realy add to the println
+
+print("world")        // i will not recomend you to use print! just use println. 
+
+
+
+}
+
+
+//---------------part 4-------------
+***coming soon***
+
